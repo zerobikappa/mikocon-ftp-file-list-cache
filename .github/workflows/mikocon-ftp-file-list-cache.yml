@@ -83,7 +83,7 @@ jobs:
           path: ~/d/
       - name: replace old file
         run: |
-          rm -v *.zip *.txt
+          rm -fv *.zip *.txt
           find ~/d/
           echo "moving files..."
           find ~/d/ -type f -exec mv -fv "{}" . \;
