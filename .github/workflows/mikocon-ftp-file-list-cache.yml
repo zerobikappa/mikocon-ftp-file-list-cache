@@ -1,0 +1,87 @@
+name: retrieve file list on mikocon ftp server
+  #on: [push]
+on: [workflow_dispatch]
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: install packages
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y        \
+                      lftp \
+                      openssl
+          cd ${{ github.workspace }}
+      - name: retrieve NEW file list
+        run: |
+          mkdir -p ~/.config/lftp/mikocon.com/
+          openssl s_client -connect ${{ secrets.MikoconFtp }} -starttls ftp </dev/null | openssl x509 >~/.config/lftp/mikocon.com/mikocon.crt
+          chmod 0600 ~/.config/lftp/mikocon.com/mikocon.crt
+          echo -e "set ftp:charset shift-jis\nset ftp:use-feat false\nset ftp:nop-interval 60\nset ssl:ca-file ~/.config/lftp/mikocon.com/mikocon.crt\nset net:idle 1h\nset xfer:temp-file-name *.part\nset ftp:ssl-auth TLS\nset ftp:use-utf8 yes\n" >~/.config/lftp/mikocon.com/rc
+          LFTP_HOME=~/.config/lftp/mikocon.com/ lftp -c "open ${{ secrets.MikoconEntry }}; find -l NEW > ~/NEW.txt"
+          mv ~/NEW.txt ${{ github.workspace }}
+          cd ${{ github.workspace }}
+      - name: temp save output file
+        uses: actions/upload-artifact@v3
+        with:
+          name: NEW.txt
+          path: NEW.txt
+          retention-days: 5
+
+  job2:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: install packages
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y        \
+                      lftp \
+                      openssl
+          cd ${{ github.workspace }}
+      - name: retrieve ARCHIVE file list
+        run: |
+          mkdir -p ~/.config/lftp/mikocon.com/
+          openssl s_client -connect ${{ secrets.MikoconFtp }} -starttls ftp </dev/null | openssl x509 >~/.config/lftp/mikocon.com/mikocon.crt
+          chmod 0600 ~/.config/lftp/mikocon.com/mikocon.crt
+          echo -e "set ftp:charset shift-jis\nset ftp:use-feat false\nset ftp:nop-interval 60\nset ssl:ca-file ~/.config/lftp/mikocon.com/mikocon.crt\nset net:idle 1h\nset xfer:temp-file-name *.part\nset ftp:ssl-auth TLS\nset ftp:use-utf8 yes\n" >~/.config/lftp/mikocon.com/rc
+          LFTP_HOME=~/.config/lftp/mikocon.com/ lftp -c "open ${{ secrets.MikoconEntry }}; find -l ARCHIVE > ~/ARCHIVE.txt"
+          mv ~/ARCHIVE.txt ${{ github.workspace }}
+          cd ${{ github.workspace }}
+      - name: temp save output file
+        uses: actions/upload-artifact@v3
+        with:
+          name: ARCHIVE.txt
+          path: ARCHIVE.txt
+          retention-days: 5
+      - run: echo "🍏 This job's status is ${{ job.status }}."
+
+  job3:
+    needs: [job1, job2]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: download this repo
+        uses: actions/checkout@v3
+          #        with:
+          #          repository: zerobikappa/actions-test
+          #          path: actions-test
+      - name: download new file
+        uses: actions/download-artifact@v3
+        with:
+          path: ~/d/
+      - name: replace old file
+        run: |
+          find ~/d/
+          echo "moving files..."
+          find ~/d/ -type f -exec mv -fv "{}" . \;
+      - name: auto push to repo
+        uses: stefanzweifel/git-auto-commit-action@v4
+          #        with:
+          #          repository: ./actions-test
+          #          file_pattern: '*.txt'
+      - run: echo "🍏 This job's status is ${{ job.status }}."
