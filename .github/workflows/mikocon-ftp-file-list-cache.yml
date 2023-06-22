@@ -22,6 +22,7 @@ jobs:
           echo -e "set ftp:charset shift-jis\nset ftp:use-feat false\nset ftp:nop-interval 60\nset ssl:ca-file ~/.config/lftp/mikocon.com/mikocon.crt\nset net:idle 1h\nset xfer:temp-file-name *.part\nset ftp:ssl-auth TLS\nset ftp:use-utf8 yes\n" >~/.config/lftp/mikocon.com/rc
           LFTP_HOME=~/.config/lftp/mikocon.com/ lftp -c "open ${{ secrets.MikoconEntry }}; find -l NEW >~/NEW.raw.txt" &
           while [ -n "$(pgrep lftp 2>/dev/null)" ]; do echo total lines:`wc -l ~/NEW.raw.txt`; sleep 60; done
+          echo total lines:`wc -l ~/NEW.raw.txt`
           cd ${{ github.workspace }}
       - name: temp save output file
         uses: actions/upload-artifact@v3
@@ -50,6 +51,7 @@ jobs:
           echo -e "set ftp:charset shift-jis\nset ftp:use-feat false\nset ftp:nop-interval 60\nset ssl:ca-file ~/.config/lftp/mikocon.com/mikocon.crt\nset net:idle 1h\nset xfer:temp-file-name *.part\nset ftp:ssl-auth TLS\nset ftp:use-utf8 yes\n" >~/.config/lftp/mikocon.com/rc
           LFTP_HOME=~/.config/lftp/mikocon.com/ lftp -c "open ${{ secrets.MikoconEntry }}; find -l ARCHIVE >~/ARCHIVE.raw.txt" &
           while [ -n "$(pgrep lftp 2>/dev/null)" ]; do echo total lines:`wc -l ~/ARCHIVE.raw.txt`; sleep 60; done
+          echo total lines:`wc -l ~/ARCHIVE.raw.txt`
           cd ${{ github.workspace }}
       - name: temp save output file
         uses: actions/upload-artifact@v3
