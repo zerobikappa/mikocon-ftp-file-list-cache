@@ -20,6 +20,7 @@ jobs:
           openssl s_client -connect ${{ secrets.MikoconFtp }} -starttls ftp </dev/null | openssl x509 >~/.config/lftp/mikocon.com/mikocon.crt
           chmod 0600 ~/.config/lftp/mikocon.com/mikocon.crt
           echo -e "set ftp:charset shift-jis\nset ftp:use-feat false\nset ftp:nop-interval 60\nset ssl:ca-file ~/.config/lftp/mikocon.com/mikocon.crt\nset net:idle 1h\nset xfer:temp-file-name *.part\nset ftp:ssl-auth TLS\nset ftp:use-utf8 yes\n" >~/.config/lftp/mikocon.com/rc
+          LFTP_HOME=~/.config/lftp/mikocon.com/ lftp -c "open ${{ secrets.MikoconEntry }}; ls" || exit 2
           LFTP_HOME=~/.config/lftp/mikocon.com/ lftp -c "open ${{ secrets.MikoconEntry }}; find -l NEW >~/NEW.raw.txt" &
           while [ -n "$(pgrep lftp 2>/dev/null)" ]; do echo total lines:`wc -l ~/NEW.raw.txt`; sleep 60; done
           echo total lines:`wc -l ~/NEW.raw.txt`
@@ -49,6 +50,7 @@ jobs:
           openssl s_client -connect ${{ secrets.MikoconFtp }} -starttls ftp </dev/null | openssl x509 >~/.config/lftp/mikocon.com/mikocon.crt
           chmod 0600 ~/.config/lftp/mikocon.com/mikocon.crt
           echo -e "set ftp:charset shift-jis\nset ftp:use-feat false\nset ftp:nop-interval 60\nset ssl:ca-file ~/.config/lftp/mikocon.com/mikocon.crt\nset net:idle 1h\nset xfer:temp-file-name *.part\nset ftp:ssl-auth TLS\nset ftp:use-utf8 yes\n" >~/.config/lftp/mikocon.com/rc
+          LFTP_HOME=~/.config/lftp/mikocon.com/ lftp -c "open ${{ secrets.MikoconEntry }}; ls" || exit 2
           LFTP_HOME=~/.config/lftp/mikocon.com/ lftp -c "open ${{ secrets.MikoconEntry }}; find -l ARCHIVE >~/ARCHIVE.raw.txt" &
           while [ -n "$(pgrep lftp 2>/dev/null)" ]; do echo total lines:`wc -l ~/ARCHIVE.raw.txt`; sleep 60; done
           echo total lines:`wc -l ~/ARCHIVE.raw.txt`
@@ -83,18 +85,20 @@ jobs:
           path: ~/d/
       - name: replace old file
         run: |
-          rm -fv *.zip *.txt
+          rm -fv *.zip NEW/* ARCHIVE/*
           find ~/d/
-          echo "moving files..."
           find ~/d/ -type f -exec mv -fv "{}" . \;
           zip rawdata.zip *.raw.txt
-          cat NEW.raw.txt | awk '$2!="-"{printf "%s\t%s\t",$4,$5; for(i=6; i<=NF; ++i)printf "%s",$i""FS; print ""}' | sort >NEW.txt
-          cat ARCHIVE.raw.txt | awk '$2!="-"{printf "%s\t%s\t",$4,$5; for(i=6; i<=NF; ++i)printf "%s",$i""FS; print ""}' | sort >ARCHIVE.txt
+          cat NEW.raw.txt | awk '$2!="-"{printf "%s\t%s\t",$4,$5; for(i=6; i<=NF; ++i)printf "%s",$i""FS; print ""}' | sort >NEW.sort.txt
+          cat ARCHIVE.raw.txt | awk '$2!="-"{printf "%s\t%s\t",$4,$5; for(i=6; i<=NF; ++i)printf "%s",$i""FS; print ""}' | sort >ARCHIVE.sort.txt
           rm -v *.raw.txt
+          split -l 1000 -d -a 5 --additional-suffix=.txt NEW.sort.txt NEW/NEW.
+          split -l 1000 -d -a 5 --additional-suffix=.txt ARCHIVE.sort.txt ARCHIVE/ARCHIVE.
+          rm -v *.sort.txt
 
       - name: auto push to repo
         uses: stefanzweifel/git-auto-commit-action@v4
           #        with:
           #          repository: ./actions-test
-          #          file_pattern: '*.txt, *.zip'
+          #          file_pattern: '*/*.txt, *.zip'
       - run: echo "🍏 This job's status is ${{ job.status }}."
