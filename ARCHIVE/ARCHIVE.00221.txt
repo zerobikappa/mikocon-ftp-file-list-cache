@@ -1,3 +1,8 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/2-0003633228.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/2-0003990323.4608.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/2-0004076523.2304.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/20/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/20/20-01-miss　you.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/20/20-02-little　blue.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/20/20-03-Silly.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/20/20-04-lost　in　the　dream.flac 
@@ -993,8 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/NHK大河ドラマ「八重の桜」オリジナル・サウンドトラック II(24bit_192kHz)/14_会津士魂の純粋.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/NHK大河ドラマ「八重の桜」オリジナル・サウンドトラック II(24bit_192kHz)/15_義.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/NHK大河ドラマ「八重の桜」オリジナル・サウンドトラック II(24bit_192kHz)/16_開戦.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/NHK大河ドラマ「八重の桜」オリジナル・サウンドトラック II(24bit_192kHz)/17_夜襲.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/NHK大河ドラマ「八重の桜」オリジナル・サウンドトラック II(24bit_192kHz)/18_対峙.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/NHK大河ドラマ「八重の桜」オリジナル・サウンドトラック II(24bit_192kHz)/19_死にゆく者たちへ.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/NHK大河ドラマ「八重の桜」オリジナル・サウンドトラック II(24bit_192kHz)/20_幸福のかたち (orchestra ver.).flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/NHK大河ドラマ「八重の桜」オリジナル・サウンドトラック II(24bit_192kHz)/21_武士達の挫折.flac 
