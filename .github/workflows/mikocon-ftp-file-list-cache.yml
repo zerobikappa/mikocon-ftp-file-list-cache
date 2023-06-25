@@ -1,8 +1,64 @@
 name: retrieve file list on mikocon ftp server
-  #on: [push]
-on: [workflow_dispatch]
+
+on:
+  schedule:
+    # run on UTC+0 19:00PM every Sunday and Thursday == 逢周一和周五的凌晨三点
+    - cron: '0 19 * * 0,4'
+  # also allow you to run this workflow manually
+  workflow_dispatch:
+    inputs:
+      force_flag:
+        description: 'force update?(y/n, default is n)'
+        required: false
+        default: 'n'
+
 jobs:
   job1:
+    runs-on: ubuntu-latest
+    outputs:
+      trigger_flag: ${{ steps.result.outputs.trigger }}
+    steps:
+      - name: download this repo
+        uses: actions/checkout@v3
+      - name: install packages
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y unzip
+      - name: check previous date stamp
+        run: |
+          TEMP_VAR=$(unzip -l rawdata.zip | grep NEW.raw.txt)
+          PREVIOUS_DATE=$(echo $TEMP_VAR | awk '{print $2}')
+          echo "PREVIOUS_DATE=$PREVIOUS_DATE" >> $GITHUB_ENV
+      - name: check current date stamp
+        run: |
+          curl https://www.mikocon.com/serverupdate/ > /tmp/mikocon-serverupdate.txt
+          sed -i 's|<br>|\n|g' /tmp/mikocon-serverupdate.txt
+          sed -i 's|<[^>]*>||g' /tmp/mikocon-serverupdate.txt
+          CURRENT_DATE=$(tail -n 1 /tmp/mikocon-serverupdate.txt | awk '{print $3}')
+          echo "CURRENT_DATE=$CURRENT_DATE" >> $GITHUB_ENV
+      - name: compare date
+        id: result
+        run: |
+          previous_date_stamp=$(date -d ${{ env.PREVIOUS_DATE }} +%s)
+          current_date_stamp=$(date -d ${{ env.CURRENT_DATE }} +%s)
+          if [ $current_date_stamp -gt $previous_date_stamp ]; then
+              trigger="true"
+              echo "trigger=true" >> $GITHUB_OUTPUT
+          else
+              trigger="false"
+              echo "trigger=false" >> $GITHUB_OUTPUT
+          fi
+
+          if [ ${{ github.event.inputs.force_flag }} == 'y' ]; then
+              trigger="true"
+              echo "trigger=true" >> $GITHUB_OUTPUT
+          fi
+          echo trigger=$trigger
+      - run: echo "🍏 This job's status is ${{ job.status }}."
+
+  job2:
+    needs: job1
+    if: needs.job1.outputs.trigger_flag == 'true'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -17,7 +73,9 @@ jobs:
       - name: retrieve NEW file list
         run: |
           mkdir -p ~/.config/lftp/mikocon.com/
-          openssl s_client -connect ${{ secrets.MikoconFtp }} -starttls ftp </dev/null | openssl x509 >~/.config/lftp/mikocon.com/mikocon.crt
+          # important: 务必将错误流重定向到/dev/null进行销毁(2>/dev/null)，避免在output中泄露服务器地址。
+          # important: 必须使用github的secret功能保存账号密码，不要把账号密码直接写在脚本中。
+          openssl s_client -connect ${{ secrets.MikoconFtp }} -starttls ftp </dev/null 2>/dev/null | openssl x509 >~/.config/lftp/mikocon.com/mikocon.crt
           chmod 0600 ~/.config/lftp/mikocon.com/mikocon.crt
           echo -e "set ftp:charset shift-jis\nset ftp:use-feat false\nset ftp:nop-interval 60\nset ssl:ca-file ~/.config/lftp/mikocon.com/mikocon.crt\nset net:idle 1h\nset xfer:temp-file-name *.part\nset ftp:ssl-auth TLS\nset ftp:use-utf8 yes\n" >~/.config/lftp/mikocon.com/rc
           LFTP_HOME=~/.config/lftp/mikocon.com/ lftp -c "open ${{ secrets.MikoconEntry }}; ls" || exit 2
@@ -31,8 +89,11 @@ jobs:
           name: NEW.raw.txt
           path: ~/NEW.raw.txt
           retention-days: 5
+      - run: echo "🍏 This job's status is ${{ job.status }}."
 
-  job2:
+  job3:
+    needs: job1
+    if: needs.job1.outputs.trigger_flag == 'true'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -47,7 +108,9 @@ jobs:
       - name: retrieve ARCHIVE file list
         run: |
           mkdir -p ~/.config/lftp/mikocon.com/
-          openssl s_client -connect ${{ secrets.MikoconFtp }} -starttls ftp </dev/null | openssl x509 >~/.config/lftp/mikocon.com/mikocon.crt
+          # important: 务必将错误流重定向到/dev/null进行销毁(2>/dev/null)，避免在output中泄露服务器地址。
+          # important: 必须使用github的secret功能保存账号密码，不要把账号密码直接写在脚本中。
+          openssl s_client -connect ${{ secrets.MikoconFtp }} -starttls ftp </dev/null 2>/dev/null | openssl x509 >~/.config/lftp/mikocon.com/mikocon.crt
           chmod 0600 ~/.config/lftp/mikocon.com/mikocon.crt
           echo -e "set ftp:charset shift-jis\nset ftp:use-feat false\nset ftp:nop-interval 60\nset ssl:ca-file ~/.config/lftp/mikocon.com/mikocon.crt\nset net:idle 1h\nset xfer:temp-file-name *.part\nset ftp:ssl-auth TLS\nset ftp:use-utf8 yes\n" >~/.config/lftp/mikocon.com/rc
           LFTP_HOME=~/.config/lftp/mikocon.com/ lftp -c "open ${{ secrets.MikoconEntry }}; ls" || exit 2
@@ -63,8 +126,8 @@ jobs:
           retention-days: 5
       - run: echo "🍏 This job's status is ${{ job.status }}."
 
-  job3:
-    needs: [job1, job2]
+  job4:
+    needs: [job2, job3]
     runs-on: ubuntu-latest
     permissions:
       contents: write
