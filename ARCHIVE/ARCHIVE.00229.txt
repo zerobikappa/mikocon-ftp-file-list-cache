@@ -1,6 +1,3 @@
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2009/2009-02/[090228][KSLC-0006‾0007] Keyらじ Vol.1 [iso+flac+bk+rr5].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2009/2009-02/[20090203] (同人音楽) (東方) [CYBER CATS] 地霊音楽殿 (tta+cue+jpg).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2009/2009-02/[20090215] (紅のひろば) (同人音楽) (東方) [DR-FN01] [Discord Registers] FOGGY NIGHT (tta+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2009/2009-02/[EAC] [090204] 佐藤ひろ美 - メリー！メリーゴーランド (tak+InternalCue rr5).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2009/2009-02/[EAC][090204]TVアニメ『明日のよいち！』EDテーマ「Life and proud」／美郷あき (tta+log+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2009/2009-02/[EAC][090205] チャンピオンRED いちご Vol.12 特別付録 ドラマCD あきそら (tak+cue+jpg rr5).rar 
@@ -998,3 +995,6 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2010/2010-07/[100707](特典CD) 刀語 Vol.4 特典CD(flac+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2010/2010-07/[100714](アルバム) PSP 初音ミク-Project DIVA 2nd｜こっち向いて Baby yellow ／ryo（supercell） kz（livetune） CD+DVD 初回生産限定盤[MHCL-1777](tta+cue+jpg&iso+mds).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2010/2010-07/[100714](アルバム) PSP 初音ミク-Project DIVA 2nd｜こっち向いて Baby yellow ／ryo（supercell） kz（livetune）[MHCL-1780](tta+cue+jpg).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2010/2010-07/[100714](アルバム) YUI - HOLIDAYS IN THE SUN[SRCL-7311](wav+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2010/2010-07/[100714](シングル) ちぇり〜★腐ぁ〜む - Liquid Fiction[DAKCBOX-1](tta+cue+jpg).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2010/2010-07/[100714](シングル) イナズマイレブン OP5｜GOODキター!／T-Pistonz + KMC[PKCF-1027](ape+cue+jpg).rar 

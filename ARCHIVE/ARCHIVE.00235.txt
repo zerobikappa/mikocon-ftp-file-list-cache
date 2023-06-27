@@ -1,6 +1,3 @@
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C75/同人音楽/_[ABSOLUTE CASTAWAY] Arco-Iris (tta+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C76/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C76/(C76) (同人音楽) (FF)[首楞厳神呪] SixSixSix (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C76/(C76) (同人音楽) (東方)[A-One] POD JACK (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C76/(C76) (同人音楽) (東方)[Alstroemeria Records] Fragment Reactions (tta+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C76/(C76) (同人音楽) (東方)[COOL&CREATE] 東方サマーフタリ (tta+cue).rar 
@@ -998,3 +995,6 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C77/同人音楽/(C77) (同人音楽) [sound sepher] Cradle2 (東方) (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C77/同人音楽/(C77) (同人音楽) [strobo head] stroboregister (東方) (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C77/同人音楽/(C77) (同人音楽) [white noise] SONIK ARSENA (flac+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C77/同人音楽/(C77) (同人音楽) [yasuo] 電彩造花 -digital artistry- (flac+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C77/同人音楽/(C77) (同人音楽) [zephlabel] zephlabel+STRep.(tta+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C77/同人音楽/(C77) (同人音楽) [℃iel] Ordinary Days (flac+cue).rar 
