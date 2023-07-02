@@ -1,3 +1,7 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭7/(例大祭7) (同人音楽)[オリエンス] Crimson Queen (tta+cue)/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭7/(例大祭7) (同人音楽)[オリエンス] Crimson Queen (tta+cue)/Crimson Queen/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭7/(例大祭7) (同人音楽)[オリエンス] Crimson Queen (tta+cue)/Crimson Queen/Crimson Queen.cue 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭7/(例大祭7) (同人音楽)[オリエンス] Crimson Queen (tta+cue)/Crimson Queen/Crimson Queen.tta 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭7/(例大祭7) (同人音楽)[オーライフジャパン] 気象無原則 (tta+cue).zip 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭7/(例大祭7) (同人音楽)[オーライフジャパン] 気象無原則 (tta+cue)/ 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭7/(例大祭7) (同人音楽)[オーライフジャパン] 気象無原則 (tta+cue)/気象無原則/ 
@@ -994,7 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) AQUA STYLE - 蒼穹フォークロア -Firmament Folklore- (東方) (flac)/07. AQUA STYLE - 異教.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) AQUA STYLE - 蒼穹フォークロア -Firmament Folklore- (東方) (flac)/08. AQUA STYLE - 故郷.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) AQUA STYLE - 蒼穹フォークロア -Firmament Folklore- (東方) (flac)/09. AQUA STYLE - 世界.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) AQUA STYLE - 蒼穹フォークロア -Firmament Folklore- (東方) (flac)/cover.jpg 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) AQUA STYLE - 蒼穹フォークロア -Firmament Folklore- (東方) (flac)/蒼穹フォークロア -Firmament Folklore-.m3u8 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) DDBY - くつろぎタイム2 (flac)/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) DDBY - くつろぎタイム2 (flac)/01. Bizen - ふくろうの家.flac 

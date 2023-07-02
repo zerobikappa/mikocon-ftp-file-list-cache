@@ -1,3 +1,7 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (東方音楽) [まらしぃ] 幻想遊戯＜妖＞(東方) (tta+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (東方音楽) [イオシス] 東方云符不普(東方) (tta+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (東方音楽) [クマノヘヤ] 東方多重声 〜幻〜 (tta+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (東方音楽) [セブンスヘブンAmmy's] fractale (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (東方音楽) [セブンスヘブンMAXION] Muse (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (東方音楽) [トッパツプラン] 東方大運動会 サウンドトラック (tta+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (東方音楽) [ドアのぶ工場] ElectRock [0] ensemble (tta+cue).rar 
@@ -994,7 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82)[サリー] 【アイス】 (tta+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82)[直立不動で愚者の認定を受ける] 火宴踊稀者、祈災禍終 〜極渦如流、黒花弁如廻〜 (tta+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/[120811(C82)](同人音楽)[幽閉カタルシス] 刹那キ∞螺旋アルゴリズム (wav+log+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/[120811(C82)](同人音楽)[幽閉サテライト] アラベスクの様に (flac+cue+jpg).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/[120815(C82)](同人音楽)(東方)[幽?サテライト] 千華繚乱 (flac+cue+jpg).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/[20120811] (C82) (同人音楽) (東方) [DJFC-0001] [DJF] DJF 2012 COMPILATION (tta+cue+jpg).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/[20120811] (C82) (同人音楽) (東方) [TONE-0001] [Dolce Voce] 東音〜SYMPHONIC SUITE (tta+cue+log+jpg).rar 

@@ -1,3 +1,7 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「結城友奈は勇者である」エンディングテーマ「Aurora Days」/01.Aurora Days.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「結城友奈は勇者である」エンディングテーマ「Aurora Days」/02.Aurora Days (Instrumental).flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「響け！ユーフォニアム」OP「DREAM SOLISTER」／TRUE [96KHz 24bit][FLAC]/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「響け！ユーフォニアム」OP「DREAM SOLISTER」／TRUE [96KHz 24bit][FLAC]/01. DREAM SOLISTER (24bit／96kHz).flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「響け！ユーフォニアム」OP「DREAM SOLISTER」／TRUE [96KHz 24bit][FLAC]/02. SAKURAコンチェルト (24bit／96kHz).flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「響け！ユーフォニアム」OP「DREAM SOLISTER」／TRUE [96KHz 24bit][FLAC]/03. Swag!!! (24bit／96kHz).flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「響け！ユーフォニアム」OP「DREAM SOLISTER」／TRUE [96KHz 24bit][FLAC]/04. DREAM SOLISTER (Off Vocal) (24bit／96kHz).flac 
@@ -994,7 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]逮捕しちゃうぞ 限定解除コレクションI[96kHz／24bit][FLAC].part2.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]逮捕しちゃうぞ 限定解除コレクションI[96kHz／24bit][FLAC].part3.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]逮捕しちゃうぞ 限定解除コレクションI[96kHz／24bit][FLAC].part4.rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]零れる砂のアリア[48kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]青い図書室[96kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]風の中の行進[96kHz／24bit][FLAC].part1.rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]風の中の行進[96kHz／24bit][FLAC].part2.rar 

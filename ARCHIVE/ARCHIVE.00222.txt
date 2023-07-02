@@ -1,3 +1,7 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/ELISA - AS LIFE/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/ELISA - AS LIFE/0-0003226620.1411.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/ELISA - AS LIFE/1-0003226621.1411.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/ELISA - AS LIFE/10-0003226630.1411.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/ELISA - AS LIFE/11-0003226631.1411.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/ELISA - AS LIFE/12-0003226632.1411.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/ELISA - AS LIFE/2-0003226622.1411.flac 
@@ -994,7 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」OP主題歌/1-Secret Sky(TV edit).flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「冴えない彼女の育てかた」OP.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「結城友奈は勇者である」エンディングテーマ「Aurora Days」/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「結城友奈は勇者である」エンディングテーマ「Aurora Days」/01.Aurora Days.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「結城友奈は勇者である」エンディングテーマ「Aurora Days」/02.Aurora Days (Instrumental).flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「響け！ユーフォニアム」OP「DREAM SOLISTER」／TRUE [96KHz 24bit][FLAC]/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「響け！ユーフォニアム」OP「DREAM SOLISTER」／TRUE [96KHz 24bit][FLAC]/01. DREAM SOLISTER (24bit／96kHz).flac 

@@ -1,3 +1,7 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]零れる砂のアリア[48kHz／24bit][FLAC].rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]青い図書室[96kHz／24bit][FLAC].rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]風の中の行進[96kHz／24bit][FLAC].part1.rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]風の中の行進[96kHz／24bit][FLAC].part2.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]風の中の行進[96kHz／24bit][FLAC].part3.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]龍刻 RYU-KOKU[96kHz／24bit][FLAC] - 1.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]龍刻 RYU-KOKU[96kHz／24bit][FLAC] - 2.rar 
@@ -994,7 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/02-永久に.dff 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/03-アオイロの空.dff 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/04-He is here‾私の神様‾.dff 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/05-君のかわり.dff 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/06-夢想歌.dff 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/07-beand new days.dff 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/08-時の河.dff 

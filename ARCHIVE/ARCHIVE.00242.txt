@@ -1,3 +1,7 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) AQUA STYLE - 蒼穹フォークロア -Firmament Folklore- (東方) (flac)/cover.jpg 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) AQUA STYLE - 蒼穹フォークロア -Firmament Folklore- (東方) (flac)/蒼穹フォークロア -Firmament Folklore-.m3u8 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) DDBY - くつろぎタイム2 (flac)/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) DDBY - くつろぎタイム2 (flac)/01. Bizen - ふくろうの家.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) DDBY - くつろぎタイム2 (flac)/02. Makoto - 静かに輝く.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) DDBY - くつろぎタイム2 (flac)/03. sa-sara - 海に堕ちた星.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/未整理/(C85) DDBY - くつろぎタイム2 (flac)/04. さば夫 - まぶたのうらの世界.flac 
@@ -994,7 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ELISA AS LIFE/12-0003226632.1411.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ELISA AS LIFE/2-0003226622.1411.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ELISA AS LIFE/3-0003226623.1411.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ELISA AS LIFE/4-0003226624.1411.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ELISA AS LIFE/5-0003226625.1411.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ELISA AS LIFE/6-0003226626.1411.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ELISA AS LIFE/7-0003226627.1411.flac 
