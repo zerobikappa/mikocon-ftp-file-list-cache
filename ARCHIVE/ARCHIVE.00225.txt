@@ -1,3 +1,31 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/堀江由衣 HONEY JET!!/13-0003706420.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/堀江由衣 HONEY JET!!/2-0003706409.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/堀江由衣 HONEY JET!!/3-0003706410.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/堀江由衣 HONEY JET!!/4-0003706411.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/堀江由衣 HONEY JET!!/5-0003706412.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/堀江由衣 HONEY JET!!/6-0003706413.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/堀江由衣 HONEY JET!!/7-0003706414.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/堀江由衣 HONEY JET!!/8-0003706415.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/堀江由衣 HONEY JET!!/9-0003706416.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/堀江由衣 ワールドエンドの庭/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/堀江由衣 ワールドエンドの庭/ワールドエンドの庭.zip 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夏の罪/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夏の罪/1-夏の罪.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夏の罪/2-東京cloudy.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夏の花/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夏の花/01-夏の花.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夏の花/02-Summer of Love.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夏の花/03-赤いスニーカー.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夏の花/04-夏の花-Instrumental-.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夜に聴く柔らかな響き 〜やさしいピアノの音と水音の調和〜.part1.rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夜に聴く柔らかな響き 〜やさしいピアノの音と水音の調和〜.part2.rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢見る隙間/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢見る隙間/01-夢見る隙間.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/01-君だけの旅路.dff 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/02-永久に.dff 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/03-アオイロの空.dff 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/04-He is here‾私の神様‾.dff 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/05-君のかわり.dff 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/06-夢想歌.dff 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/夢路 (DSD 2.8MHz_1bit)/07-beand new days.dff 
@@ -970,31 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-01/ 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-01/[030122][VICL-35458](シングル) ．hack／／黄昏の腕輪伝説 EDテーマ｜Emerald Green／See-Saw(flac+cue+png).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-01/[030124][MMCC-6013](シングル) piano EDテーマ｜ココロの音／上野洋子(flac+cue+png).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-02/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-02/[030205] 三枝夕夏 IN db - Secret & Lies (ape+cue+rr3).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-02/[030205] 元田恵美 - 香る風 (tak+cue+log+png rr5).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-02/[030205](シングル) 君が望む永遠 DC&PS2版OP｜風のゆくえ yours／栗林みな実[LACM-4084](ape+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-02/[030207](サントラ) Alicesoft Sound Album Vol.02-3 ままにょにょ[ASS-004](ape+cue+png).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-02/[030226][EAC] 石田燿子 1st album「sweets」 (wav+cue+png).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-03/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-03/[030305](アルバム) ヒカルの碁 主題歌全集−BEST OF HIKARU NO GO−[AVCA-14598](ape+cue+jpg).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-03/[030326](アルバム) まほろまてぃっく for 川澄綾子[PICA-1261](ape+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-03/[030327]月影のデスティニー オリジナル・サウンドトラック(ape＋cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-03/[EAC] [030327] History of beatmania IIDX (flac＋cue＋log＋jpg).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-04/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-04/[030402]Crystal.-.Circus.Vocal.Collection.Vol.1(ape+cue+log).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-04/[030412](アルバム) fripSide - 1st odyssey of fripSide[SCFS-0301](tta+cue+jpg).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-04/[030423] 水樹奈々 - 7th Single「New Sensation」(tta+cue).zip 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-04/[030423](サントラ) .hack／／GAME MUSIC Perfect Collection 初回限定版 Disc3枚組[VIZL-78](ape+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-04/[030423](サントラ) .hack／／GAME MUSIC Perfect Collection 初回限定版[VICL-61116](3ape+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-04/[030423](シングル) スクラップド・プリンセス OPテーマ｜Little Wing／JAM Porject featuring 奥井雅美[LACM-4089](ape+cue+jpg).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-04/[030423](シングル) 成恵の世界 OP｜流れ星☆／CooRie[LACM-4091](ape+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-04/[030423][植田 佳奈](シングル) 妄想科学シリーズワンダバスタイル OP＆ED｜The IJIN-DEN 天才の法則＆MOON de GO! GO! ／みっくすJUICE[LACM-4092](ape+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-04/[030425] 教室シリーズ完結記念CD オリジナルサウンドトラック (flac+log+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-05/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-05/[030521](シングル) 宇宙のステルヴィア OP｜明日へのbrilliant road／angela[KICM-3042](ape+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-05/[030521](シングル) 成恵の世界 ED｜アイスクリム／千葉紗子[LACM-4096](ape+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-05/[EAC] [030521] TVアニメ 成恵の世界 ED 「アイスクリイム」／千葉紗子 (wav+log+cue+bmp).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-06/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-06/[030606](サントラ) CANDY TOYS オリジナルサウンドトラック[CTS-001](ape+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2003/2003-06/[030618](ドラマCD) カレイドスター 〜はじめての すごい ミニアルバム〜[TFCC-86137](ape+cue).rar 

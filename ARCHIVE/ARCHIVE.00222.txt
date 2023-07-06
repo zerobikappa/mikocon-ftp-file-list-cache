@@ -1,3 +1,31 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Dallas Wind Symphony Sampler/10 Jerry Junkin - Nobles of the Mystic Shrine, march for band.wav 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Dallas Wind Symphony Sampler/11 Jerry Junkin - Kammermusik No.7, concerto for organ & orchestra, Op. 46-2- Finale.wav 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Dallas Wind Symphony Sampler/12 Jerry Junkin - The Gumsuckers March, for wind band & piano (2 versions- edited by Rogers and by Kreines).wav 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Dallas Wind Symphony Sampler/13 Jerry Junkin - Symphony No. 4 for symphonic winds- Finale.wav 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Dallas Wind Symphony Sampler/Dallas Wind Symphony Sampler.log 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Dallas Wind Symphony Sampler/Folder.jpg 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 1/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 1/13.flac.baiduyun.downloading 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 1/13.flac.baiduyun.downloading.cfg 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 1/14.flac.baiduyun.downloading 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 1/14.flac.baiduyun.downloading.cfg 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 1/15.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 1/16.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/01.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/02.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/03.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/04.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/05.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/06.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/07.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/08.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/09.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/10.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/11.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Disc. 2/12.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/ED/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/ED/01 - ときめきポポロン♪.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/ELISA - AS LIFE/ 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/ELISA - AS LIFE/0-0003226620.1411.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/ELISA - AS LIFE/1-0003226621.1411.flac 
@@ -970,31 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「WHITE ALBUM2」VOCAL COLLECTION(24bit_96kHz)/06_大切な君へ.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「WHITE ALBUM2」VOCAL COLLECTION(24bit_96kHz)/07_closing '13.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「WHITE ALBUM2」VOCAL COLLECTION(24bit_96kHz)/08_WHITE ALBUM Live at Campus Fes (TVanime ver.).flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「WHITE ALBUM2」VOCAL COLLECTION(24bit_96kHz)/09_SOUND OF DESTINY Live at Campus Fes (TVanime ver.).flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「WHITE ALBUM2」VOCAL COLLECTION(24bit_96kHz)/10_さよならのこと.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「WHITE ALBUM2」VOCAL COLLECTION(24bit_96kHz)/11_Free and Dream.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「WHITE ALBUM2」VOCAL COLLECTION(24bit_96kHz)/12_届かない恋 '13.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「WHITE ALBUM2」VOCAL COLLECTION(24bit_96kHz)/13_優しい嘘.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「WHITE ALBUM2」VOCAL COLLECTION(24bit_96kHz)/14_恋のような.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「オオカミ少女と黒王子」Single(24bit48kHz).zip 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「ガンスリンガー ストラトス」のエンディングテーマ『MIRAI』／GARNiDELiA.rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「ユリ熊嵐」OP「あの森で待ってる」／ボンジュール鈴木 [48KHz 24bit][FLAC]/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「ユリ熊嵐」OP「あの森で待ってる」／ボンジュール鈴木 [48KHz 24bit][FLAC]/01. あの森で待ってる (24bit／48kHz).flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「ユリ熊嵐」OP「あの森で待ってる」／ボンジュール鈴木 [48KHz 24bit][FLAC]/02. I MET A BEAR (24bit／48kHz).flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「ローリング☆ガールズ」主題歌集 THE ROLLING GIRLS 「人にやさしく」(24bit48kHz).zip 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「三者三葉」オリジナル・サウンドトラック [Hi-Res].zip 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」ED主題歌第三章「Nameless Heart」/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」ED主題歌第三章「Nameless Heart」/1-0005036423.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」ED主題歌第三章「Nameless Heart」/2-0005036424.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」ED主題歌第三章「Nameless Heart」/3-0005036425.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」ED主題歌第三章「Nameless Heart」/4-0005036426.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」OP&ED double A-sideシングル「Cry for the TruthSecret Sky」初回限定盤/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」OP&ED double A-sideシングル「Cry for the TruthSecret Sky」初回限定盤/1-Cry for the Truth.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」OP&ED double A-sideシングル「Cry for the TruthSecret Sky」初回限定盤/2-Secret Sky.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」OP&ED double A-sideシングル「Cry for the TruthSecret Sky」初回限定盤/3-Cry for the Truth(Instrumental).flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」OP&ED double A-sideシングル「Cry for the TruthSecret Sky」初回限定盤/4-Secret Sky(Instrumental).flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」OP主題歌/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」OP主題歌/1-Cry for the Truth(TV edit).flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「六花の勇者」OP主題歌/1-Secret Sky(TV edit).flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「冴えない彼女の育てかた」OP.rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/TVアニメ「結城友奈は勇者である」エンディングテーマ「Aurora Days」/ 
