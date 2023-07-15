@@ -34,8 +34,19 @@ jobs:
           curl https://www.mikocon.com/serverupdate/ > /tmp/mikocon-serverupdate.txt
           sed -i 's|<br>|\n|g' /tmp/mikocon-serverupdate.txt
           sed -i 's|<[^>]*>||g' /tmp/mikocon-serverupdate.txt
-          CURRENT_DATE=$(tail -n 1 /tmp/mikocon-serverupdate.txt | awk '{print $3}')
+          TOTAL_LINE=$(wc -l /tmp/mikocon-serverupdate.txt | awk '{print $1}')
+          for i in $(seq 1 $TOTAL_LINE)
+          do
+              echo "i=$i"
+              CURRENT_DATE=$(tail -n $i /tmp/mikocon-serverupdate.txt | head -n 1 | awk '{print $3}')
+              if (date -d $CURRENT_DATE +%s); then
+                  break
+              else
+                  CURRENT_DATE=""
+              fi
+          done
           echo "CURRENT_DATE=$CURRENT_DATE" >> $GITHUB_ENV
+
       - name: compare date
         id: result
         run: |
