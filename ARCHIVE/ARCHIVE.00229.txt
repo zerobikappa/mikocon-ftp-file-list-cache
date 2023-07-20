@@ -1,6 +1,3 @@
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-03/(ドラマCD) D.C.?U 〜ダ・カーポ?U〜 雪月花の『ドキドキお見舞い大作戦』[0703XX][SOFT-0021](tta+cue+jpg).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-03/(同人音楽)[070323][CODE ZTS LABEL] Selfregards2 (ape＋cue＋Tracklist＋ジャケット類).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-03/(特典CD) DEATH NOTE 映画 CompleteSet 特典CD(tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-03/[070303](シングル) 山崎まさよし - One more time, One more chance 『秒速5センチメートル』 Special Edition[UPCH-80013](ape+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-03/[070305](シングル) KitKat×レミオロメン - ３月９日／パラダイム[NCKK-40](tta+cue).zip 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-03/[070307](アルバム) AKB48 チームK 1st PARTYが始まるよ[DFCL-1354](iso).rar 
@@ -998,3 +995,6 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-08/[070831] (シングル) [花梨エンターテイメント] 片霧烈火 - 東京ジオラマ／悪夢の姫君 [プリンセスナイトメア主題歌] (tta+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-08/[070831] [BLACK Cyc] GUN-KATANA Song Archives 電気式華憐音楽集団 (txt+cue+jpg rr5).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-08/[070831] [BLACK Cyc] GUN-KATANA Special Collection 特典 GUN-KATANA Song Archives [EAC] (tta+cue+rr3).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-08/[070831] [Love-Juice] 辱島 ジョクジマ SPECIAL DISC + ソフマップ特典ドラマCD (tta+bin+cue rr5).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-08/[070831] [age] マブラヴALTERED FABLE 特典 君のぞらじお オルタネィティブ (tta+cue+rr3).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-08/[070831] [しらたま] 虹色あるけミカン 公式通販特典オリジナルサウンドトラック (tta+cue rr5).rar 

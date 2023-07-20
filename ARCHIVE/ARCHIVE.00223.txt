@@ -1,6 +1,3 @@
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/17 MEMORY.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/COWBOY BEBOP.png 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/ 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/12-0003671072.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/13-0003671073.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/14-0003671074.flac 
@@ -998,3 +995,6 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/13 missing you.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/14 Together.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/15 Sherie.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/01-Saturday night to Sunday morning.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/02-サンキュー.flac 
