@@ -1,6 +1,3 @@
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/楽園/12-0003367205.flac.baiduyun.downloading 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/楽園/12-0003367205.flac.baiduyun.downloading.cfg 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/楽園/13-0003367206.flac.baiduyun.downloading 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/楽園/13-0003367206.flac.baiduyun.downloading.cfg 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/楽園/2-0003367195.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/楽園/3-0003367196.flac.baiduyun.downloading 

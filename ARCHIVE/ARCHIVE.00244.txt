@@ -1,6 +1,3 @@
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.3〜帝賜の詩〜/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.3〜帝賜の詩〜/01-虹の国のデュオワルツ.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.3〜帝賜の詩〜/02-mei-fa-re koo-ja-i；.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.3〜帝賜の詩〜/03-継承奉願祝詞.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.3〜帝賜の詩〜/04-ラシェール・フューザー.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Conti New/ 
@@ -998,3 +995,6 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/02-masquerade.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/03-survival dAnce 〜no no cry more〜.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/04-BOY MEETS GIRL.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/05-Overnight Sensation 〜時代はあなたに委ねてる〜.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/06-寒い夜だから・・・.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/07-BRAND NEW TOMORROW.flac 
