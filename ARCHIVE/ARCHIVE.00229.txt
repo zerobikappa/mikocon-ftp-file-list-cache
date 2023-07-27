@@ -1,6 +1,3 @@
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-03/[070307](アルバム) AKB48 チームK 2nd 青春ガールズ[DFCL-1355 ](iso).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-03/[070307](アルバム) AKB48 チームK 3rd 脳内パラダイス[DFCL-1356](iso).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-03/[070307](アルバム) BELLESDIVAS -Angel Note BEST COLLECTION III- [LHCA-5065](flac+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-03/[070307](アルバム) いきものがかり - 桜咲く街物語[ESCL-2910](tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-03/[070307](アルバム) ひまわりっ!! 「キラキラっ!!」キャラクター♪song collection[KICA-833](tta+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-03/[070307](アルバム) タイナカサチ - Dear...[GNCX-1002](tta+cue+jpg).rar 
@@ -998,3 +995,6 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-08/[070831](ドラマCD) Dramatic CD Collection 緋色の欠片[MACY-2144](tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-08/[070831](ドラマCD) ETERNAL LEGEND 継承の系譜 〜上巻〜[GNCA-7086](tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-08/[070831](特典CD)[BLACK Cyc] GUN-KATANA Special Collection 特典 GUN-KATANA Song Archives(tta+cue+rr3).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-08/[EAC][070810] KAORI - re;stratosphere (tta+cue+iso+jpg+rr3).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-09/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/2007/2007-09/[070903] (シングル) ave;new feat. 佐倉紗織 - True My Heart (tta+cue+jpg).rar 

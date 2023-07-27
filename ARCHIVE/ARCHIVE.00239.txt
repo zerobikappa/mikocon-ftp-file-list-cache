@@ -1,6 +1,3 @@
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (同人音楽) [arcane753.] ツナギ蝶ノ冢 (MANYO・霜月はるか・日山尚) (flac+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (同人音楽) [clocknote.] CannedTunes! (世界樹III) (tta+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (同人音楽) [creazuma] 大人の都合！ (tta+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (同人音楽) [curled-coil] subsequence.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (同人音楽) [dBu music] 暁のヴァンピレス 夜鳴鳥 (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C79/同人音楽/(C79) (同人音楽) [electro planet] vocalomemory (tta+cue+jpg).rar 
@@ -998,3 +995,6 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (東方音楽) [Alstroemeria Records] THE WORLD DESTINATION (tta+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (東方音楽) [Assaultdoor] 風神さまの箱庭 (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (東方音楽) [As／Hi Soundworks] ピアノのための東方小品集 Op.3 (tta+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (東方音楽) [C-CLAYS] 水斎 -Prism- (tta+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (東方音楽) [C.H.S] So Many Materials (tta+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (東方音楽) [CROW'SCLAW] アコースティック・エピソード (tta+cue+jpg).rar 

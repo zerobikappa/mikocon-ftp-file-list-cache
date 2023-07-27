@@ -1,6 +1,3 @@
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C76/[EAC] [090815(C76)] [C.H.S] GottaMaze2 previewdisk gomennasaiEdit (tak+Internal Cue+bmp).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C76/[EAC] [090815(C76)] [CLOCK MUSIC] 52度の彼方／抱き抱える腕 (tak+Internal Cue+bmp).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C76/[EAC] [090815(C76)] [CTBR] 色彩×少女 (tak+Internal Cue+bmp).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C76/[EAC] [090815(C76)] [D'va;;;;;;;;5] アムリタ (tak+Internal Cue+bmp).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C76/[EAC] [090815(C76)] [Diverse System] D14 (tak+Internal Cue+bmp).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C76/[EAC] [090815(C76)] [EastNewSound] Lucent Wish (tak+Internal Cue+bmp).rar 
@@ -998,3 +995,6 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C78/同人音楽/(C78) (東方音楽) [MISTY RAIN] Scarlet Scenery (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C78/同人音楽/(C78) (東方音楽) [MN-logic24] シンデレラガール (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C78/同人音楽/(C78) (東方音楽) [MNK] Oriental Happy Party-東方幸福党- (tta+cue)_.rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C78/同人音楽/(C78) (東方音楽) [MONOMIND] OUT OF COURT (tta+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C78/同人音楽/(C78) (東方音楽) [Mad Tea Party] GODMOTHER (tta+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C78/同人音楽/(C78) (東方音楽) [Melodic Taste] 千年幻想交響祭 (tta+cue)_.rar 

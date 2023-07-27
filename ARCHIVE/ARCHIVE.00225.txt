@@ -1,6 +1,3 @@
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]むすぶ[48kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]アニメ・スタンダード Vol.5 [96kHz／24bit][FLAC].part1.rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]アニメ・スタンダード Vol.5 [96kHz／24bit][FLAC].part2.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]アニメ・スタンダード Vol.5 [96kHz／24bit][FLAC].part3.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]グリオットの眠り姫[48kHz／24bit][FLAC].part1.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]グリオットの眠り姫[48kHz／24bit][FLAC].part2.rar 
@@ -998,3 +995,6 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/05-真昼が雪.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/06-KINGFISHER GIRL(The Song of_Wish You Were Here_).flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/07-ヒーロー.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/08-夜.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/09-CALL TO ME.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/10-光あれ.flac 
