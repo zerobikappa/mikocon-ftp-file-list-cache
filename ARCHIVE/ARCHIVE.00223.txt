@@ -1,3 +1,16 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/13 The EGG and I.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/14 FELT TIP PEN.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/15 RAIN.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/16 DIGGING MY POTATO.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/17 MEMORY.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/COWBOY BEBOP.png 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/12-0003671072.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/13-0003671073.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/14-0003671074.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/15-0003671075.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/16-0003671076.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/17-0003671077.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/18-0003671078.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP Vitaminless/19-0003671079.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/ 
@@ -985,16 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/09 FANTASY.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/10 Every Boy Every Girl.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/11 Love you, Miss you.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/12 Story.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/13 missing you.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/14 Together.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/15 Sherie.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/01-Saturday night to Sunday morning.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/02-サンキュー.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/03-oh yeah！！.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/04-(awa).flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/05-今夜はパジャマ☆パーティー.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/06-ばいばい.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Special Place Recording -Suara at 求道会館- (5.6MHz dsd + 24bit_96kHz)FLAC_DISC.rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Stamp!/ 

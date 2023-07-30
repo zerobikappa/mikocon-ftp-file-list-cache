@@ -1,3 +1,16 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/12 Story.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/13 missing you.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/14 Together.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/15 Sherie.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/01-Saturday night to Sunday morning.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/02-サンキュー.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/03-oh yeah！！.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/04-(awa).flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/05-今夜はパジャマ☆パーティー.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Shiggy Jr. is not a child/06-ばいばい.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Special Place Recording -Suara at 求道会館- (5.6MHz dsd + 24bit_96kHz)FLAC_DISC.rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Stamp!/ 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Stamp!/1-0004343237.2304.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Stamp!/2-0004343238.2304.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Stamp!/3-0004343239.2304.flac 
@@ -985,16 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]いつか君はそいつと別れるに決まってる[96kHz／24bit][FLAC].rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]えとたまキャラクターソングミニアルバム?@[48kHz／24bit][FLAC].rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]えとたまキャラクターソングミニアルバム?A[48kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]えとたまキャラクターソングミニアルバム?C[48kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]ぐっすり眠れるα波 〜 モーツァルト ピアノ ベスト[96kHz／24bit][FLAC].part1.rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]ぐっすり眠れるα波 〜 モーツァルト ピアノ ベスト[96kHz／24bit][FLAC].part2.rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]さよなら涙[48kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]そわそわ!ワンスモア[48kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]ついておいでよ[48kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]となりの関くん うたのCD[44kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]はじまりの速度[96kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]はなよりほかに[96kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]ひとヒナタ[48kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]むすぶ[48kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]アニメ・スタンダード Vol.5 [96kHz／24bit][FLAC].part1.rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]アニメ・スタンダード Vol.5 [96kHz／24bit][FLAC].part2.rar 

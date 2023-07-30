@@ -1,3 +1,16 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/8-0004026957.4608.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/9-0004026958.4608.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/01-CRAZY GONNA CRAZY.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/02-masquerade.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/03-survival dAnce 〜no no cry more〜.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/04-BOY MEETS GIRL.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/05-Overnight Sensation 〜時代はあなたに委ねてる〜.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/06-寒い夜だから・・・.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/07-BRAND NEW TOMORROW.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/08-Love & Peace Forever.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/09-EZ DO DANCE.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/10-Happening Here.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/m4a/ 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/m4a/01 - CRAZY GONNA CRAZY.m4a 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/m4a/02 - masquerade.m4a 
@@ -985,16 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/あの森で待ってる/あの森で待ってる.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 MJ ピアノ・ベスト II/ 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 MJ ピアノ・ベスト II/1-0004239073.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 MJ ピアノ・ベスト II/10-0004239082.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 MJ ピアノ・ベスト II/2-0004239074.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 MJ ピアノ・ベスト II/3-0004239075.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 MJ ピアノ・ベスト II/4-0004239076.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 MJ ピアノ・ベスト II/5-0004239077.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 MJ ピアノ・ベスト II/6-0004239078.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 MJ ピアノ・ベスト II/7-0004239079.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 MJ ピアノ・ベスト II/8-0004239080.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 MJ ピアノ・ベスト II/9-0004239081.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 R25 ピアノ・ベスト/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 R25 ピアノ・ベスト/1-0004309974.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 R25 ピアノ・ベスト/10-0004309983.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/ぐっすり眠れるα波 〜 R25 ピアノ・ベスト/2-0004309975.flac 

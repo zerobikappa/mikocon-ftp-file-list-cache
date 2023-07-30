@@ -1,3 +1,16 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]えとたまキャラクターソングミニアルバム?C[48kHz／24bit][FLAC].rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]ぐっすり眠れるα波 〜 モーツァルト ピアノ ベスト[96kHz／24bit][FLAC].part1.rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]ぐっすり眠れるα波 〜 モーツァルト ピアノ ベスト[96kHz／24bit][FLAC].part2.rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]さよなら涙[48kHz／24bit][FLAC].rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]そわそわ!ワンスモア[48kHz／24bit][FLAC].rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]ついておいでよ[48kHz／24bit][FLAC].rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]となりの関くん うたのCD[44kHz／24bit][FLAC].rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]はじまりの速度[96kHz／24bit][FLAC].rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]はなよりほかに[96kHz／24bit][FLAC].rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]ひとヒナタ[48kHz／24bit][FLAC].rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]むすぶ[48kHz／24bit][FLAC].rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]アニメ・スタンダード Vol.5 [96kHz／24bit][FLAC].part1.rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]アニメ・スタンダード Vol.5 [96kHz／24bit][FLAC].part2.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]アニメ・スタンダード Vol.5 [96kHz／24bit][FLAC].part3.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]グリオットの眠り姫[48kHz／24bit][FLAC].part1.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]グリオットの眠り姫[48kHz／24bit][FLAC].part2.rar 
@@ -985,16 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/嘘つきアリスとくじら号をめぐる冒険/6-0003632381.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/嘘つきアリスとくじら号をめぐる冒険/7-0003632382.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/嘘つきアリスとくじら号をめぐる冒険/8-0003632383.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/嘘つきアリスとくじら号をめぐる冒険/9-0003632384.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/01-うちゅうひこうしのうた.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/02-ソラヲミロ.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/03-スクラップ〜別れの詩.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/04-まきばアリス！.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/05-真昼が雪.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/06-KINGFISHER GIRL(The Song of_Wish You Were Here_).flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/07-ヒーロー.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/08-夜.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/09-CALL TO ME.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/坂本 真綾(1)/少年アリス/10-光あれ.flac 

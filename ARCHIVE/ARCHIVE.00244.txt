@@ -1,3 +1,16 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/04 QuelI -ein te hyme-.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/05 ネプトリュード (Class- NEPTLUDE- extends.TX_CLUSTERS-.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.2〜想界の詩〜/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.2〜想界の詩〜/01 美し世界.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.2〜想界の詩〜/02 コード・エテスウェイ (Class--ETHES_WEI=_extends.COMMUNI_SAT-.).flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.2〜想界の詩〜/03 QuelI-_EX[cez]-_{kranz};.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.2〜想界の詩〜/04 zu-fao jen-din;.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.3〜帝賜の詩〜/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.3〜帝賜の詩〜/01-虹の国のデュオワルツ.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.3〜帝賜の詩〜/02-mei-fa-re koo-ja-i；.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.3〜帝賜の詩〜/03-継承奉願祝詞.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.3〜帝賜の詩〜/04-ラシェール・フューザー.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Conti New/ 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Conti New/Conti New(ハイレゾ音源)_01_ストリーミングハート feat. 初音ミク.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Conti New/Conti New(ハイレゾ音源)_02_おじゃま虫 feat. 初音ミク.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Conti New/Conti New(ハイレゾ音源)_03_毒占欲 feat. 初音ミク.flac 
@@ -985,16 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/5-0004026954.4608.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/6-0004026955.4608.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/7-0004026956.4608.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/8-0004026957.4608.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/9-0004026958.4608.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/01-CRAZY GONNA CRAZY.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/02-masquerade.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/03-survival dAnce 〜no no cry more〜.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/04-BOY MEETS GIRL.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/05-Overnight Sensation 〜時代はあなたに委ねてる〜.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/06-寒い夜だから・・・.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/07-BRAND NEW TOMORROW.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/08-Love & Peace Forever.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/09-EZ DO DANCE.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/TRF 〜Hi-Res Best〜/10-Happening Here.flac 
