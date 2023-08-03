@@ -1,3 +1,7 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (同人音楽) [ヤマイ] SONORA (flac+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (同人音楽) [削除] Selentia (flac+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (同人音楽) [大麻葉吸] battle.mp3 (flac+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (同人音楽) [豚乙女] ボウリング (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (東方音楽) [10th Avenue Cafe] 幻想郷茶房 〜tea for two〜 (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (東方音楽) [38BEETS] Cause and effect (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/Comiket/C82/同人音楽/(C82) (東方音楽) [5150] 東方合体ゲンソウオー参式 (tta+cue).rar 
@@ -994,7 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/M3/M3-42/ 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/M3/M3-大阪/ 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/M3/M3-大阪/(M3-大阪) [TCNCD004] 999 Recordings (DJ TECHNORCH) - GOTHIC SYSTEM lite 〜Trancecore meets Gabber〜 .rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/[EAC] コトバの消えた日‾心まで裸にする純愛調教‾ サウンドトラックCD (wav+log+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭10/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭10/(例大祭10) (同人音楽) (東方)[130526][FELT-010] [FELT] Icicle fall (tta+cue+jpg).rar 

@@ -1,3 +1,7 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/09 PIANO BLACK.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/10 POT CITY.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/11 TOO GOOD TOO BAD.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/12 CAR 24.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/13 The EGG and I.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/14 FELT TIP PEN.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/COWBOY BEBOP SOUNDTRACK/15 RAIN.flac 
@@ -994,7 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/05 Day 7.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/06 Happy Half Year!.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/07 Rainbow.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/08 beloved.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/09 FANTASY.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/10 Every Boy Every Girl.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/11 Love you, Miss you.flac 

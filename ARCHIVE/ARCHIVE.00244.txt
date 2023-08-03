@@ -1,3 +1,7 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/ 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/01 詩無き丘へ.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/02 Ahih rei-yah.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/03 天地咆吼.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/04 QuelI -ein te hyme-.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/05 ネプトリュード (Class- NEPTLUDE- extends.TX_CLUSTERS-.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.2〜想界の詩〜/ 
@@ -994,7 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/17-0004026966.4608.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/2-0004026951.4608.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/3-0004026952.4608.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/4-0004026953.4608.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/5-0004026954.4608.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/6-0004026955.4608.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/T.M.Revolution 天/7-0004026956.4608.flac 

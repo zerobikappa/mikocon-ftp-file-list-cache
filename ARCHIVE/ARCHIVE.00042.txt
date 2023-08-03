@@ -1,3 +1,10 @@
+2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/(一般ゲーム) [080229][Key] CLANNAD FULL VOICE 起動用.rar 
+2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/(一般ゲーム) [080321][スタジオサジタリウス] もっと もえがく (NoSerial Patch付 iso).rar 
+2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/(一般ゲーム) [080321][スタジオサジタリウス] もっと もえがく マニュアル (bmp).rar 
+2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/(一般ゲーム) [080321][スタジオサジタリウス] もっと もえがく 特典 英語音読イディオムCD (wav).rar 
+2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/(一般ゲーム) [080328][ASGARD] 乙女的恋革命ラブレボ! PC版 (iso+マニュアル).rar 
+2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/(一般ゲーム) [080328][シュガービーンズ] いじわるMyMaster (iso+mds).rar 
+2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/(一般ゲーム) [080328][シュガービーンズ] いじわるMyMaster アニメイト特典 ドラマCD (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/(一般ゲーム) [080404][KID SDR Project] 12RIVEN -the Ψcliminal of integral- (iso+mds).rar 
 2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/(一般ゲーム) [080404][KID SDR Project] 12RIVEN -the Ψcliminal of integral- NoDVD.rar 
 2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/(一般ゲーム) [080404][KID SDR Project] EVer.17 (iso+mds).rar 
@@ -991,10 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/[EAC] [080822] [BaseSon] 「恋姫無双」覇王プロジェクト 〜ハオプロ〜 ユニットの陣 ドM組 (tak+inCue+bmp).rar 
 2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/[EAC] [081128] ゆこそ - tricolore (tak+InternalCue+bmp).rar 
 2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/[EAC] [081128] 癒月 - 散りゆく時の中で (tak+InternalCue+bmp).rar 
-2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/[EAC] [081219] [mana] メアメアメア ORIGINAL SOUND TACKS (tak+inCue).rar 
-2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/[EAC] [090123] ave；new - casket (2tak+InternalCue+bmp).rar 
-2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/[EAC] [090130] PETA Bits Records - graviton -グラヴィトン- Winter Selection Vol.2 (tak+InternalCue+bmp).rar 
-2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/[EAC] [090130] [BasiL] それは舞い散る桜のように 完全版 アレンジアルバム Evolution (tak+InternalCue+bmp).rar 
-2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/[EAC] [090304] TVアニメ ティアーズ トゥ ティアラ Prologue Sound Track ≪origo cunctarum rerum≫ (ape+cue).rar 
-2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/[EAC] [090327] LOVE BULLETS II (bmp).rar 
-2023-01-01	01:01:30	ARCHIVE/企業ゲーム/未整理/[EAC] [090327] [HOOK] HOOKSOFT MEMORIAL SOUND COLLECTION (11tak+InternalCue+bmp).rar 

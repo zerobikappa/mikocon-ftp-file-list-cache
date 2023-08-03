@@ -1,3 +1,7 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭9/同人音楽/(例大祭9) (同人音楽)[少年ヴィヴィッド] 枯れ岸に咲く (tta+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭9/同人音楽/(例大祭9) (同人音楽)[岸田教団&The明星ロケッツ] .JP (tta+cue).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭9/同人音楽/(例大祭9) (同人音楽)[幽閉サテライト] 華鳥風月 (tta+cue+jpg).rar 
+2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭9/同人音楽/(例大祭9) (同人音楽)[彩音 〜xi-on〜] 東方志奏 11th Spell -Overflow- (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭9/同人音楽/(例大祭9) (同人音楽)[時遊戯画] 忘憂捧曲集 (tta+cue+jpg).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭9/同人音楽/(例大祭9) (同人音楽)[村里翔太の音楽堂] 秋麗のノスタルジィ (tta+cue).rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (整理済、更新停止)/例大祭/例大祭9/同人音楽/(例大祭9) (同人音楽)[梶迫小道具店] 兼知未然 (tta+cue).rar 
@@ -994,7 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/COWBOY BEBOP Vitaminless/17-0003671077.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/COWBOY BEBOP Vitaminless/18-0003671078.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/COWBOY BEBOP Vitaminless/19-0003671079.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/ 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/01 詩無き丘へ.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/02 Ahih rei-yah.flac 
-2023-01-01	01:01:30	ARCHIVE/音楽 (未整理)/Ciel nosurge Genometric Concert Vol.1〜契絆ノ詩〜/03 天地咆吼.flac 

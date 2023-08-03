@@ -1,3 +1,7 @@
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/08 beloved.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/09 FANTASY.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/10 Every Boy Every Girl.flac 
+2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/11 Love you, Miss you.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/12 Story.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/13 missing you.flac 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/Secret Collection 〜RED〜 河西稻叶/14 Together.flac 
@@ -994,7 +998,3 @@
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]「迷家-マヨイガ-」OST[48kHz／24bit][FLAC].part1.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]「迷家-マヨイガ-」OST[48kHz／24bit][FLAC].part2.rar 
 2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]あいたい[スペシャル盤][48kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]あたらしいうた[96kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]いつか君はそいつと別れるに決まってる[96kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]えとたまキャラクターソングミニアルバム?@[48kHz／24bit][FLAC].rar 
-2023-01-01	01:01:30	ARCHIVE/音楽 (Hi-Res)/[天使?漫][Hi-Res]えとたまキャラクターソングミニアルバム?A[48kHz／24bit][FLAC].rar 
