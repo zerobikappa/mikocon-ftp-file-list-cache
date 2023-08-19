@@ -26,7 +26,7 @@ jobs:
           sudo apt-get install -y unzip
       - name: check previous date stamp
         run: |
-          TEMP_VAR=$(unzip -l rawdata.zip | grep NEW.raw.txt)
+          TEMP_VAR=$(unzip -l rawdata.zip | grep raw.txt | head -n 1)
           PREVIOUS_DATE=$(echo $TEMP_VAR | awk '{print $2}')
           echo "PREVIOUS_DATE=$PREVIOUS_DATE" >> $GITHUB_ENV
       - name: check current date stamp
