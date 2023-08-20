@@ -166,7 +166,9 @@ jobs:
           cat NEW.raw.txt | awk '$2!="-"{printf "%s\t%s\t",$4,$5; for(i=6; i<=NF; ++i)printf "%s",$i""FS; print ""}' | sort >NEW.sort.txt
           cat ARCHIVE.raw.txt | awk '$2!="-"{printf "%s\t%s\t",$4,$5; for(i=6; i<=NF; ++i)printf "%s",$i""FS; print ""}' | sort >ARCHIVE.sort.txt
           rm -v *.raw.txt
+          mkdir NEW
           split -l 1000 -d -a 5 --additional-suffix=.txt NEW.sort.txt NEW/NEW.
+          mkdir ARCHIVE
           split -l 1000 -d -a 5 --additional-suffix=.txt ARCHIVE.sort.txt ARCHIVE/ARCHIVE.
           rm -v *.sort.txt
 
